@@ -1,2 +1,4 @@
-# rock-paper-scissors-game
- A game of rock paper scissors played against the computer
+# zahreafranklin.github.io
+ My portfolio webpage
+ 
+![Alt text](https://zahreafranklin/rock-paper-scissors-game/img/rps-repo.png?raw=true "Optional Title")
